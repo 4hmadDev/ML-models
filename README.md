@@ -5,6 +5,6 @@ The doge coin Data set is trained on :
 2. Logistic Regression Model
 3. Desicion Tree Model
 
-**Arthur**
+**Arthur :**
 
 Ahmad Arfeen
